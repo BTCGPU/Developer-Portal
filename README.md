@@ -1,6 +1,6 @@
 # Bitcion Gold Developer Portal
 
-## Bounty Program
+## Bounty Programs
 
 Bitcoin Gold is a community driven open-source project. We welcome all kinds of contribution to the project. As an incentive, the Bitcoin Gold Organization rewards the contributor by bounties.
 

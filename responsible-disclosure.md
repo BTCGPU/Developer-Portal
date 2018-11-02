@@ -4,6 +4,9 @@ At Bitcoin Gold, we consider the security of our systems a top priority. But no 
 
 If you discover a vulnerability, we would like to know about it so we can take steps to address it as quickly as possible. We would like to ask you to help us better protect our community and our systems.
 
+We offer bug bounties for the accepted vulnerability reports. Please don't submit non security bugs 
+or feature requests as vulnerability report. Instead, you can check out [Public Bounty Program](public-bounty.md).
+
 ## Please do
 
 - Make sure that your finding are actually a security vulnerability and within our infrastructure and/or code repositories. Missing or misconfigured SPF, DKIM, DANE, Headers, open directories, external code, etc. do NOT qualify in 99% cases and will be denied. Vulnerabilities where you can access servers, execute code, etc. do qualify for report submission.
@@ -31,3 +34,7 @@ If you discover a vulnerability, we would like to know about it so we can take s
 The table shows the typical amount of the rewards.
 
 We strive to resolve all problems as quickly as possible, and we would like to play an active role in the ultimate publication on the problem after it is resolved.
+
+## Scoping
+
+TBD
