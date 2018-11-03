@@ -16,6 +16,8 @@ Sometimes when the solution involves more than one contributor, the dev team wil
 
 Simply create a GitHub issue in the developer portal [here](https://github.com/BTCGPU/dev/issues). You need to describe the feature you request or the bug you want to report. Please also describe the technical requirements for the fix if you can. Please leave the tag section empty and don't add "[Bounty]" prefix in the title.
 
+Example: https://github.com/BTCGPU/dev/issues/1
+
 After the issue is created, the dev team will review your issue, assign tags, put a expiration date, or add dev bounty to it. The process may take some time and may involve further discussion witht the community.
 
 **Be careful: don't post critical vulnerabilities here.** Instead please check our [Responsible Disclosure Program](responsible-disclosure.md).
