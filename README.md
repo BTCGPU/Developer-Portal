@@ -22,7 +22,7 @@ Bitcoin Gold is a community driven open-source project. We welcome all kinds of 
   - [Insight](https://explorer.bitcoingold.org/): A Bitcoin Gold explorer with public API ([soruce](https://github.com/BTCGPU/insight), [api](https://github.com/BTCGPU/insight-api)).
   - [bitcore](https://github.com/BTCGPU/bitcore): A node.js development framework for Bitcoin Gold.
   - [bgoldjs-lib](https://github.com/BTCGPU/bitcoinjs-lib): A Javascript library for Bitcoin Gold.
-  - [bgoldj](https://github.com/BTCGPU/bitcoinj): A Java library for Bitcoin Gold.
+  - [bitcoingoldj](https://github.com/BTCGPU/bitcoinj): A Java library for Bitcoin Gold.
   - [Coin.bin](https://h4x3rotab.github.io/coinbin/): Pure HTML & Javascript implemented paper wallet with low-level utilities ([source](https://github.com/h4x3rotab/coinbin) hosted by @h4x3rotab).
   - [equihashjs-verify](https://github.com/BTCGPU/equihashjs-verify): Pure Javascript implemented Equihash-BTG validator.
   - [equihashverify](https://github.com/BitcoinGold-mining/equihashverify): Node.js Equihash-BTG validator package written in C.
