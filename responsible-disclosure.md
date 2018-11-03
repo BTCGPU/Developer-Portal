@@ -7,6 +7,8 @@ If you discover a vulnerability, we would like to know about it so we can take s
 We offer bug bounties for the accepted vulnerability reports. Please don't submit non security bugs 
 or feature requests as vulnerability report. Instead, you can check out [Public Bounty Program](public-bounty.md).
 
+This Responsible Disclosure program, Bug Bounty program, and any listed rewards are subject to change at any time.
+
 ## Please do
 
 - Make sure that your finding are actually a security vulnerability and within our infrastructure and/or code repositories. Missing or misconfigured SPF, DKIM, DANE, Headers, open directories, external code, etc. do NOT qualify in 99% cases and will be denied. Vulnerabilities where you can access servers, execute code, etc. do qualify for report submission.
@@ -27,11 +29,11 @@ or feature requests as vulnerability report. Instead, you can check out [Public 
 - In the public information concerning the problem reported, we will give your name as the discoverer of the problem (unless you desire otherwise), and
 - As a token of our gratitude for your assistance, we offer a reward for every report of a security problem that was not yet known to us. The type and/or amount of the reward will be determined based on the severity of the leak and the quality of the report.
 
-| Severity  | Critical | High     | Medium   | Low      |
-| --------- | -------- | -------- | -------- | -------- |
-| Rewards   | $5,000   | $1,500   | $500     | $100     |
+| Severity  | Critical | High     | Medium   | Low       |
+| --------- | -------- | -------- | -------- | --------- |
+| Up to     | $5,000   | $1,500   | $500     | $1 - $100 |
 
-The table shows the typical amount of the rewards.
+Reward amounts will be determined only at the end of remediation of the disclosed issue. Actual reward amounts may exceed $5,000 or be as low as $1. The SYSOPS / CERT Team will provide their assessment and recommendation regarding severity or regarding reward amount but the final decision is solely at the discretion of the BTG Team.
 
 We strive to resolve all problems as quickly as possible, and we would like to play an active role in the ultimate publication on the problem after it is resolved.
 

@@ -6,9 +6,13 @@ In addition to the regular open source workflow, we introduce bounty for tasks. 
 
 ## I'm a Bounty Hunter
 
-Find the tasks in Developer Portal [issue page](https://github.com/BTCGPU/dev/issues) and earn bounties!
+Find the tasks in Developer Portal [issue page](https://github.com/BTCGPU/dev/issues) and earn bounties! The number in the title multiplied by 100 is the amount of the bounty.
 
-To get the bounty, your solution need to meet all the requirements described in the issue. When you complete the task, submit your Pull Request and reply to the issue. A dev team member will handle the rest and send you the bounty after the confirmation.
+> [Bounty:2] Enable Compact Block in Core Wallet
+
+Take the first issue as an example. `[Bounty:2]` means the bounty for the task offered by the dev team is $200 (USD).
+
+To get the bounty, your solution has to meet all the requirements described in the issue. When you complete the task, submit your Pull Request and reply to the issue. A dev team member will handle the payment after the confirmation of the solution.
 
 Sometimes when the solution involves more than one contributor, the dev team will decide how to split the bounty to multiple parties based on the contribution.
 
