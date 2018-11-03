@@ -2,7 +2,7 @@
 
 Public Bounty Program offers a place for the communtiy to help Bitcoin Gold development. The program is based on GitHub issue system where people can create bug report & feature request, discuss, and track the process of the development.
 
-In addition to the regular open source workflow, we introduce bounty for tasks. You can take get rewarded after finishing the tasks.
+In addition to the regular open source workflow, we introduce bounty for tasks. You can get rewarded after finishing the tasks.
 
 ## I'm a Bounty Hunter
 
