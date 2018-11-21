@@ -14,13 +14,13 @@ Bitcoin Gold is a community-driven open-source project. We welcome all kinds of 
   - [Tech Spec](https://github.com/BTCGPU/BTCGPU/wiki/Technical-Spec): Review of the technical parameters for Bitcoin gold with notes of the differences between Bitcoin Gold and Bitcoin. Useful for anyone implemeting BTG into other environmens, as well as developers working on the Bitcoin Gold Core wallet.
 
 - Lightning Network
-  - [lnd](https://github.com/BTCGPU/lnd): A Go implementation of lnd (Lightning Network Daemon) for Bitcoin Gold.
-  - [lseed](https://github.com/BTCGPU/lseed): A DNS bootstrapper for Lightning Network.
-  - [recksplorer](https://github.com/BTCGPU/recksplorer): A Lightning Network explorer web service.
+  - [lnd](https://github.com/BTCGPU/lnd): A Go implementation of LN for Bitcoin Gold.
+  - [lseed](https://github.com/BTCGPU/lseed): A DNS bootstrapper for LN.
+  - [recksplorer](https://github.com/BTCGPU/recksplorer): A LN explorer web service.
 
 - Libraries & Tools
   - [Insight](https://explorer.bitcoingold.org/): A Bitcoin Gold block explorer with public API ([source](https://github.com/BTCGPU/insight), [api](https://github.com/BTCGPU/insight-api)).
-  - [bitcore](https://github.com/BTCGPU/bitcore): A node.js full node and development framework for Bitcoin Gold.
+  - [bitcore](https://github.com/BTCGPU/bitcore): A node.js development framework for Bitcoin Gold.
   - [bgoldjs-lib](https://github.com/BTCGPU/bitcoinjs-lib): A Javascript library for Bitcoin Gold.
   - [bitcoingoldj](https://github.com/BTCGPU/bitcoinj): A Java library for Bitcoin Gold.
   - [Coin.bin](https://h4x3rotab.github.io/coinbin/): Pure HTML & Javascript implemented paper wallet with low-level utilities ([source](https://github.com/h4x3rotab/coinbin) hosted by @h4x3rotab).
