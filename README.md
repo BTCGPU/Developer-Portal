@@ -5,7 +5,7 @@
 Bitcoin Gold is a community-driven open-source project. We welcome all kinds of contributions to the project. As an incentive, the Bitcoin Gold Organization occasionally rewards the contributors with bounties.
 
 - [Public Bounty Program](public-bounty.md): Report bugs, request features, raise funds, and get rewarded for completing tasks.
-- [Responsible Disclosure](responsible-disclosure.md): Report urgent or critical issue saffecting Bitcoin Gold network or our web infrastructure with risk to yourself.
+- [Responsible Disclosure](responsible-disclosure.md): Report urgent or critical issues affecting the Bitcoin Gold network or our web infrastructure.
 
 ## Development Resources
 
