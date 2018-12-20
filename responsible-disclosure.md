@@ -4,13 +4,15 @@ At Bitcoin Gold, we consider the security of our systems a top priority. But no 
 
 If you discover a vulnerability, we would like to know about it so we can take steps to address it as quickly as possible. We would like to ask you to help us better protect our community and our systems.
 
-We offer bug bounties for the accepted vulnerability reports. Please don't submit non security bugs 
-or feature requests as vulnerability report. Instead, you can check out [Public Bounty Program](public-bounty.md).
+We offer bug bounties for the accepted vulnerability reports. Please don't submit non-security bugs 
+or feature requests as vulnerability reports. Instead, you can check out [Public Bounty Program](public-bounty.md).
 
-## Please do
+This Responsible Disclosure program, Bug Bounty program, and any listed rewards are subject to change at any time.
 
-- Make sure that your finding are actually a security vulnerability and within our infrastructure and/or code repositories. Missing or misconfigured SPF, DKIM, DANE, Headers, open directories, external code, etc. do NOT qualify in 99% cases and will be denied. Vulnerabilities where you can access servers, execute code, etc. do qualify for report submission.
-- E-mail your findings to [admin@bitcoingold.org](admin@bitcoingold.org). If needed you can encrypt your e-mail with GPG using key [0xFB4950BD](https://pgp.mit.edu/pks/lookup?search=0xFB4950BD&op=index)
+## Please:
+
+- Make sure that your findings are actually a security vulnerability and within our infrastructure and/or code repositories. Missing or misconfigured SPF, DKIM, DANE, Headers, open directories, external code, etc. do NOT qualify in 99% of cases and will be denied. Vulnerabilities where you can access servers, execute code, etc. do qualify for report submission.
+- E-mail your findings to [admin@bitcoingold.org](admin@bitcoingold.org). If needed you can encrypt your e-mail with GPG using key [0xFB4950BD](https://pgp.mit.edu/pks/lookup?search=0xFB4950BD&op=index) (alternate lookup: [0xFB4950BD](https://pgp.key-server.io/pks/lookup?search=0xfb4950bd)
 - Do not take advantage of the vulnerability or problem you have discovered, for example by downloading more data than necessary to demonstrate the vulnerability or deleting or modifying other people’s data,
 - Do not reveal the problem to others until it has been resolved,
 - Do not use attacks on physical security, social engineering, distributed denial of service, spam or applications of third parties, and
@@ -25,16 +27,16 @@ or feature requests as vulnerability report. Instead, you can check out [Public 
 - We will keep you informed of the progress towards resolving the problem,
 - We will inform you if we accepted your report as a found security issue or that we deny the report as the reported issue and/or Proof-of-Concept does not work.
 - In the public information concerning the problem reported, we will give your name as the discoverer of the problem (unless you desire otherwise), and
-- As a token of our gratitude for your assistance, we offer a reward for every report of a security problem that was not yet known to us. The type and/or amount of the reward will be determined based on the severity of the leak and the quality of the report.
+- As a token of our gratitude for your assistance, we offer a reward for every report of a security problem that was not yet known to us. The type and/or amount of the reward will be determined based on the severity of the bug and the quality of the report.
 
-| Severity  | Critical | High     | Medium   | Low      |
-| --------- | -------- | -------- | -------- | -------- |
-| Rewards   | $5,000   | $1,500   | $500     | $100     |
+| Severity: | Critical | High     | Medium   | Low       |
+| --------- | -------- | -------- | -------- | --------- |
+|  Up to:   | $5,000   | $1,500   | $500     | $1 - $100 |
 
-The table shows the typical amount of the rewards.
+Reward amounts will be determined only at the end of remediation of the disclosed issue. Actual reward amounts may exceed $5,000 or be as low as $1. The SYSOPS / CERT Team will provide their assessment and recommendation regarding severity or regarding reward amount but the final decision is solely at the discretion of the BTG Team.
 
-We strive to resolve all problems as quickly as possible, and we would like to play an active role in the ultimate publication on the problem after it is resolved.
+We strive to resolve all problems as quickly as possible, and we would like to play an active role in the ultimate publication of the problem after it is resolved.
 
-## Scoping
+## Additional Scoping
 
 TBD
