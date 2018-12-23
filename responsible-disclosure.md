@@ -12,7 +12,7 @@ This Responsible Disclosure program, Bug Bounty program, and any listed rewards 
 ## Please:
 
 - Make sure that your findings are actually a security vulnerability and within our infrastructure and/or code repositories. Missing or misconfigured SPF, DKIM, DANE, Headers, open directories, external code, etc. do NOT qualify in 99% of cases and will be denied. Vulnerabilities where you can access servers, execute code, etc. do qualify for report submission.
-- E-mail your findings to [admin@bitcoingold.org](admin@bitcoingold.org). If needed you can encrypt your e-mail with GPG using key [0xFB4950BD](https://pgp.mit.edu/pks/lookup?search=0xFB4950BD&op=index) (alternate lookup: [0xFB4950BD](https://pgp.key-server.io/pks/lookup?search=0xfb4950bd)
+- E-mail your findings to [admin@bitcoingold.org](admin@bitcoingold.org). If needed you can encrypt your e-mail with GPG using key [0xFB4950BD](https://pgp.mit.edu/pks/lookup?search=0xFB4950BD&op=index) (alternate lookup: [0xFB4950BD](https://pgp.key-server.io/pks/lookup?search=0xfb4950bd))
 - Do not take advantage of the vulnerability or problem you have discovered, for example by downloading more data than necessary to demonstrate the vulnerability or deleting or modifying other people’s data,
 - Do not reveal the problem to others until it has been resolved,
 - Do not use attacks on physical security, social engineering, distributed denial of service, spam or applications of third parties, and
