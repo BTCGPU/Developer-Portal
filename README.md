@@ -18,6 +18,11 @@ Bitcoin Gold is a community-driven open-source project. We welcome all kinds of 
   - [lseed](https://github.com/BTCGPU/lseed): A DNS bootstrapper for LN.
   - [recksplorer](https://github.com/BTCGPU/recksplorer): A LN explorer web service.
 
+- btgsuite
+  - [btgd](https://github.com/btgsuite/btgd): A Go implementation of Bitcoin Gold full node.
+  - [btgwallet](https://github.com/btgsuite/btgwallet): Wallet component for btgd.
+  - [btgutil](https://github.com/btgsuite/btgutil): Utilities library for btgd.
+
 - Libraries & Tools
   - [Insight](https://explorer.bitcoingold.org/): A Bitcoin Gold block explorer with public API ([source](https://github.com/BTCGPU/insight), [api](https://github.com/BTCGPU/insight-api)).
   - [bitcore](https://github.com/BTCGPU/bitcore): A node.js development framework for Bitcoin Gold.
