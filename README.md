@@ -12,6 +12,10 @@ Bitcoin Gold is a community-driven open-source project. We welcome all kinds of 
 - Bitcoin Gold Core
   - [BTCGPU](https://github.com/BTCGPU/BTCGPU): The core wallet and the default full node implementation for Bitcoin Gold.
   - [Tech Spec](https://github.com/BTCGPU/BTCGPU/wiki/Technical-Spec): Review of the technical parameters for Bitcoin gold with notes of the differences between Bitcoin Gold and Bitcoin. Useful for anyone implemeting BTG into other environmens, as well as developers working on the Bitcoin Gold Core wallet.
+  
+- ElectrumG
+  - [ElectrumG](https://github.com/BTCGPU/electrum): The ElectrumG client.
+  - [ElectrumX](https://github.com/kyuupichan/electrumx): The Electrum server that supports ElectrumG.
 
 - Lightning Network
   - [lnd](https://github.com/BTCGPU/lnd): A Go implementation of LN for Bitcoin Gold.
