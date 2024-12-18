@@ -28,7 +28,7 @@ Bitcoin Gold is a community-driven open-source project. We welcome all kinds of 
   - [btgutil](https://github.com/btgsuite/btgutil): Utilities library for btgd.
 
 - Libraries & Tools
-  - [Insight](https://explorer.bitcoingold.org/): A Bitcoin Gold block explorer with public API ([source](https://github.com/BTCGPU/insight), [api](https://github.com/BTCGPU/insight-api)).
+  - [Insight](https://explorer.btgofficial.org/): A Bitcoin Gold block explorer with public API ([source](https://github.com/BTCGPU/insight), [api](https://github.com/BTCGPU/insight-api)).
   - [bitcore](https://github.com/BTCGPU/bitcore): A node.js development framework for Bitcoin Gold.
   - [bgoldjs-lib](https://github.com/BTCGPU/bitcoinjs-lib): A Javascript library for Bitcoin Gold.
   - [bitcoingoldj](https://github.com/BTCGPU/bitcoinj): A Java library for Bitcoin Gold.
@@ -43,9 +43,9 @@ Bitcoin Gold is a community-driven open-source project. We welcome all kinds of 
 
 ## Links
 
-- Website: https://bitcoingold.org
+- Website: https://btgofficial
 - Twitter: https://twitter.com/bitcoingold
 - Facebook: https://www.facebook.com/bitcoingoldofficial/
-- Forum: https://forum.bitcoingold.org
+- Forum: https://forum.btgofficial.org
 - Discord: [invitation](https://discord.gg/HmVUU6S)
 - Telegram (Global): https://t.me/BitcoinGoldHQ
