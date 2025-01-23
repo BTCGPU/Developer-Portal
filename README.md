@@ -43,7 +43,7 @@ Bitcoin Gold is a community-driven open-source project. We welcome all kinds of 
 
 ## Links
 
-- Website: https://btgofficial
+- Website: https://btgofficial.org
 - Twitter: https://twitter.com/bitcoingold
 - Facebook: https://www.facebook.com/bitcoingoldofficial/
 - Forum: https://forum.btgofficial.org
