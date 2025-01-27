@@ -35,6 +35,7 @@ Bitcoin Gold is a community-driven open-source project. We welcome all kinds of 
   - [Coin.bin](https://h4x3rotab.github.io/coinbin/): Pure HTML & Javascript implemented paper wallet with low-level utilities ([source](https://github.com/h4x3rotab/coinbin) hosted by @h4x3rotab).
   - [equihashjs-verify](https://github.com/BTCGPU/equihashjs-verify): Pure Javascript implemented Equihash-BTG validator.
   - [equihashverify](https://github.com/BitcoinGold-mining/equihashverify): Node.js Equihash-BTG validator package written in C.
+  - [GetBlock](https://getblock.io/nodes/btg/): RPC blockchain provider that offers developers reliable and low-cost API Bitcoin Gold endpoints
 
 - Mining tools
   - [z-nomp-bitcoin-gold](https://github.com/BitcoinGold-mining/z-nomp-bitcoin-gold): z-NOMP port for Bitcoin Gold, a node.js based pool.
